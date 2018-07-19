@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Assignment Submitter</string>
+    <string name="student">Student</string>
+    <string name="full_name">Full Name:</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="reg_number">Reg. Number</string>
+    <string name="register">Register</string>
+    <string name="lecturer">lecturer</string>
+    <string name="student_score_sheet">Student Score Sheet</string>
+    <string name="assignment">Assignment</string>
+    <string name="update_profile">Profile</string>
+    <string name="name_james_peter">Name: James Peter</string>
+    <string name="reg_number_17_25715u_4">Reg. Number: 17/25715U/4</string>
+    <string name="main_message">Topic Characteristics: My thesis will focus on governmental incentives for foreign direct investment (FDI) and the corresponding international competition. The principal reason why governments grant subsidies to multinational companies (MNC) lies in their expectation of productivity externalities spilling over from MNCs to local firms. These effects are hardly internalizable, that is why governments are believed to be entitled to try to attract more FDI than would correspond to the market equilibrium. Thus, many scholars argue that the global level of incentives is above-optimal and that supranational coordination would reduce it. I will try to show whether this really has to be the case; I will also attempt to empirically verify my models. I will inquire into intra-industry FDI spillovers in a large quantitative literature survey. I am going to use data from the World Competitiveness Report, World Bank’s World Development Indicators, and additionally collect some data myself. Some more description characterising the specificity of your research. Hypotheses: 1.\tIntra-industry productivity spillovers from FDI are statistically and economically significant. 2.\tThere is a difference between the results of top-journal and other empirical articles on FDI spillovers.  3.\tResearchers publish preferably significant and positive estimates of FDI spillovers. 4.\tSupranational coordination does not necessarily lower the offered amount of incentives. 5.\tInternational subsidy competition for FDI is fierce.  Methodology: Concerning the FDI spillover literature in the first part of the thesis, I am going to employ the quantitative literature review methodology, commonly called a meta-analysis. Meta-analysis rigorously combines the outcomes of several works that study the same phenomena and use the same or comparable metrics. I will use especially the meta-regression procedure but, aside from the standard approach, I will employ robust, pseudo-panel, and probability meta-regression as well. Evaluating the combined significance, I will not rely only on the standard vote-counting method but I will also employ a more advanced methodology using meta-statistics. Concerning the theoretical models of investment incentives, my methodology will be mostly microeconomic; I am going to use especially the classical models of oligopoly – Cournot, Stackelberg, etc. When trying to verify/falsify my microeconomic models, I will rely mostly on statistical methods, namely cross-section regressions, and on the surveys at the enterprise level.</string>
+    <string name="enter_score">Enter Score</string>
+    <string name="submitscore">Submit</string>
+    <string name="name">Name:</string>
+    <string name="james_john_peter">James John Peter</string>
+    <string name="jamespeter_gmail_com">jamespeter@gmail.com</string>
+    <string name="e_mailstu">E-mail:</string>
+    <string name="reg_numberstu">Reg. Number:</string>
+    <string name="_18_2234u_4">18/2234U/4</string>
+    <string name="prof_wisdom_micheal">Prof. Wisdom Micheal</string>
+    <string name="id_number">ID Number:</string>
+    <string name="_11_215futa">11/215FUTA</string>
+    <string name="update_profilelecturer">Update Profile</string>
+    <string name="title_activity_login">Sign in</string>
+
+
+    <string name="e_maillog">E-mail</string>
+    <string name="passwordlog">Password</string>
+    <string name="loginlog">Login</string>
+    <string name="registerlog">Register</string>
+    <string name="send">Send</string>
+    <string name="id_numberupdate">ID Number</string>
+    <string name="liststudentname">Student name</string>
+    <string name="scorelist">Score</string>
+    <string name="retrive_info">Retrive Info</string>
+    <string name="enter_assignment_solution">Enter Assignment Solution</string>
+    <string name="create_an_account">Create an Account</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "218223845867",
+    "firebase_url": "https://storetester-28b71.firebaseio.com",
+    "project_id": "storetester-28b71",
+    "storage_bucket": "storetester-28b71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218223845867:android:66ce017f1b239b32",
+        "android_client_info": {
+          "package_name": "com.tech.royal_vee.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218223845867-fnc96qfit81cbetd42m9g31csojtgc8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tech.royal_vee.myapplication",
+            "certificate_hash": "1847541ea144590480ec2812c2cf73d3ac0a62d8"
+          }
+        },
+        {
+          "client_id": "218223845867-2j9akjmlhtaqhmbnhb8a03be52eulnqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC95xwMxnJwoiTsMDT6-2ndepJk_MkQJQE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218223845867-2j9akjmlhtaqhmbnhb8a03be52eulnqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
